@@ -1,0 +1,9 @@
+C:\Users\djam\source\CoucheMur\bin\Debug\net48\CoucheMur.dll
+C:\Users\djam\source\CoucheMur\bin\Debug\net48\CoucheMur.pdb
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.csproj.AssemblyReference.cache
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.AssemblyInfoInputs.cache
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.AssemblyInfo.cs
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.csproj.CoreCompileInputs.cache
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.dll
+C:\Users\djam\source\CoucheMur\obj\Debug\net48\CoucheMur.pdb
