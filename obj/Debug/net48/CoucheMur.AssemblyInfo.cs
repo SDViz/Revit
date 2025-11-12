@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoucheMur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954d8c4e423120a632e97533805ce9b7c9eb717a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d97cf530e0e4f322d0e9291ba32f70ba6e8de78")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoucheMur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoucheMur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

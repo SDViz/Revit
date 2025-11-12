@@ -18,26 +18,24 @@ Le plugin CoucheMur est disponible pour plusieurs versions de Revit. Veuillez t�
 ### Versions Disponibles
 
 *   **Revit 2026**
-    *   [**Télécharger CoucheMur_2026.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2026/CoucheMur.addin)
-    *   [**Télécharger CoucheMur_2026.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+    *   [**Télécharger CoucheMur_2026.zip**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2026.zip) (Contient `CoucheMur_2026.addin` et `CoucheMur.dll`)
 *   **Revit 2025**
-    *   [**Télécharger CoucheMur_2025.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2025/CoucheMur.addin)
-    *   [**Télécharger CoucheMur_2025.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+    *   [**Télécharger CoucheMur_2025.zip**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2025.zip) (Contient `CoucheMur_2025.addin` et `CoucheMur.dll`)
 *   **Revit 2024**
-    *   [**Télécharger CoucheMur_2024.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2024/CoucheMur.addin)
-    *   [**Télécharger CoucheMur_2024.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+    *   [**Télécharger CoucheMur_2024.zip**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2024.zip) (Contient `CoucheMur_2024.addin` et `CoucheMur.dll`)
 *   **Revit 2023**
-    *   [**Télécharger CoucheMur_2023.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2023/CoucheMur.addin)
-    *   [**Télécharger CoucheMur_2023.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+    *   [**Télécharger CoucheMur_2023.zip**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2023.zip) (Contient `CoucheMur_2023.addin` et `CoucheMur.dll`)
 
 ## Comment Installer
 
 Suivez ces étapes simples pour installer le plugin CoucheMur dans Autodesk Revit :
 
-1.  **Téléchargez les fichiers** :
-    *   Téléchargez le fichier `.addin` spécifique à votre version de Revit (par exemple, `CoucheMur_2026.addin`).
-    *   Téléchargez le fichier `CoucheMur.dll` (le même fichier DLL est utilisé pour toutes les versions).
-    *   Assurez-vous de télécharger les deux fichiers et de les placer dans le même dossier sur votre machine.
+1.  **Téléchargez l'archive ZIP** :
+    *   Téléchargez le fichier `.zip` correspondant à votre version de Revit (par exemple, `CoucheMur_2026.zip`).
+
+2.  **Extrayez les fichiers** :
+    *   Décompressez l'archive ZIP. Vous y trouverez `CoucheMur_YYYY.addin` (où YYYY est l'année de Revit) et `CoucheMur.dll`.
+    *   Assurez-vous que ces deux fichiers sont dans le même dossier après l'extraction.
 
 2.  **Localisez le dossier AddIns de Revit** :
     Le dossier AddIns de Revit est généralement situé à l'un des emplacements suivants (remplacez `[VersionRevit]` par votre version de Revit, par exemple `2026`) :
