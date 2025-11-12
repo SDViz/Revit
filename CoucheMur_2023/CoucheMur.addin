@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Exploser murs composés</Name>
+		<FullClassName>CoucheMurPlugin.ExploserMurComposeCommand</FullClassName>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\CoucheMur.dll</Assembly>
+		<ClientId>1B2C3D4E-5F60-4712-8A9B-0C1D2E3F4A5B</ClientId>
+		<AddInId>3A3C4D7F-8E9B-4E6F-92A2-1C9A77B1E2C3</AddInId>
+		<Text>Exploser murs composés</Text>
+		<Description>Remplace chaque mur composé sélectionné par des murs individuels pour chaque couche.</Description>
+		<VendorId>SDVIZ.DJAMEL_SARNI</VendorId>
+		<VendorDescription>SDViz, Plugin pour Revit - Développeur vérifié</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>Purger types CoucheMur explosés</Name>
+		<FullClassName>CoucheMurPlugin.PurgerTypesExplosesCommand</FullClassName>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\CoucheMur.dll</Assembly>
+		<ClientId>A1B2C3D4-E5F6-47A8-90AB-CDEF12345678</ClientId>
+		<AddInId>5C6D7E8F-9012-4A3B-B4C5-6D7E8F9012AB</AddInId>
+		<Text>Purger types CoucheMur explosés</Text>
+		<Description>Supprime les types de murs 'CoucheMur-' non utilisés dans le projet.</Description>
+		<VendorId>SDVIZ.DJAMEL_SARNI</VendorId>
+		<VendorDescription>SDViz, Plugin pour Revit - Développeur vérifié</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

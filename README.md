@@ -11,29 +11,41 @@ Imaginez la flexibilité : chaque couche de votre mur (structure, isolation, fin
 *   **Ajustement des Jonctions** : Adapte la géométrie des murs de couche pour assurer des raccords parfaits avec les murs adjacents.
 *   **Nettoyage Facilité** : Une commande dédiée pour purger les types de murs de couche inutilisés de votre projet.
 
-## Téléchargement
+## Téléchargement et Installation
 
-Vous pouvez télécharger la dernière version compilée du plugin directement depuis le dépôt GitHub :
+Le plugin CoucheMur est disponible pour plusieurs versions de Revit. Veuillez télécharger les fichiers correspondant à votre version de Revit et suivre les instructions d'installation ci-dessous.
 
-*   [**Télécharger CoucheMur.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur.addin)
-*   [**Télécharger CoucheMur.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll)
+### Versions Disponibles
+
+*   **Revit 2026**
+    *   [**Télécharger CoucheMur_2026.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2026/CoucheMur.addin)
+    *   [**Télécharger CoucheMur_2026.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+*   **Revit 2025**
+    *   [**Télécharger CoucheMur_2025.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2025/CoucheMur.addin)
+    *   [**Télécharger CoucheMur_2025.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+*   **Revit 2024**
+    *   [**Télécharger CoucheMur_2024.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2024/CoucheMur.addin)
+    *   [**Télécharger CoucheMur_2024.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
+*   **Revit 2023**
+    *   [**Télécharger CoucheMur_2023.addin**](https://github.com/SDViz/Revit/raw/main/CoucheMur_2023/CoucheMur.addin)
+    *   [**Télécharger CoucheMur_2023.dll**](https://github.com/SDViz/Revit/raw/main/bin/Release/net48/CoucheMur.dll) (Utilise la DLL principale)
 
 ## Comment Installer
 
 Suivez ces étapes simples pour installer le plugin CoucheMur dans Autodesk Revit :
 
 1.  **Téléchargez les fichiers** :
-    *   Téléchargez `CoucheMur.addin`
-    *   Téléchargez `CoucheMur.dll`
+    *   Téléchargez le fichier `.addin` spécifique à votre version de Revit (par exemple, `CoucheMur_2026.addin`).
+    *   Téléchargez le fichier `CoucheMur.dll` (le même fichier DLL est utilisé pour toutes les versions).
     *   Assurez-vous de télécharger les deux fichiers et de les placer dans le même dossier sur votre machine.
 
 2.  **Localisez le dossier AddIns de Revit** :
-    Le dossier AddIns de Revit est généralement situé à l'un des emplacements suivants (remplacez `[VersionRevit]` par votre version de Revit, par exemple `Revit 2023`) :
+    Le dossier AddIns de Revit est généralement situé à l'un des emplacements suivants (remplacez `[VersionRevit]` par votre version de Revit, par exemple `2026`) :
     *   `C:\ProgramData\Autodesk\Revit\Addins\[VersionRevit]\`
     *   `C:\Users\[VotreNomUtilisateur]\AppData\Roaming\Autodesk\Revit\Addins\[VersionRevit]\`
 
 3.  **Copiez les fichiers** :
-    *   Copiez les deux fichiers téléchargés (`CoucheMur.addin` et `CoucheMur.dll`) dans le dossier AddIns de Revit que vous avez localisé à l'étape précédente.
+    *   Copiez le fichier `.addin` téléchargé (par exemple, `CoucheMur_2026.addin`) et le fichier `CoucheMur.dll` dans le dossier AddIns de Revit que vous avez localisé à l'étape précédente.
 
 4.  **Démarrez Revit** :
     *   Lancez Autodesk Revit. Le plugin "CoucheMur" devrait maintenant apparaître sous l'onglet "Compléments" (ou "Add-Ins") dans le ruban Revit.
